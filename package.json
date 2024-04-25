@@ -1,0 +1,19 @@
+{
+  "name": "brett-snipers-transaction-scraper",
+  "version": "1.0.0",
+  "description": "Made to scrape transactions of brett snipers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadyoakcoding/brett-snipers-transaction-scraper.git"
+  },
+  "author": "Shady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadyoakcoding/brett-snipers-transaction-scraper/issues"
+  },
+  "homepage": "https://github.com/shadyoakcoding/brett-snipers-transaction-scraper#readme"
+}
